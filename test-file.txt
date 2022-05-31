@@ -7,9 +7,8 @@ five
 six
 seven 
 eights
-_______________________________________________________
-9
-10
 
+nine
+ten
 eleven 
 twelve
